@@ -41,4 +41,4 @@
 ## Stats
 
 [![Top GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomRDev&show_icons=true&theme=gotham)](https://github.com/ThomRDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomRDev&layout=compact&theme=gotham)](https://github.com/ThomRDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomRDev&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ThomRDev)
